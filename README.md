@@ -106,9 +106,23 @@ Malmot은 커플 간 갈등 상황에서 감정을 억누르지 않으면서도 
 
 ## 스크린샷
 
-![홈 화면](docs/home_screen.png)
-![감정 분석](docs/emotion_analysis.png)
-![메시지 추천](docs/recommendations.png)
+### 홈 화면
+![홈 화면](usecases/1.jpg)
+
+### 대화 캡처 및 OCR
+![대화 캡처](usecases/2.jpg)
+
+### 감정 분석
+![감정 분석](usecases/3.jpg)
+
+### 메시지 추천
+![메시지 추천](usecases/4.jpg)
+
+### 개인화된 분석
+![개인화된 분석](usecases/5.jpg)
+
+### 앱 아이콘
+![앱 아이콘](assets/app_icon.png)
 
 ---
 
