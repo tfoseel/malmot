@@ -114,12 +114,11 @@ Malmot은 커플 간 갈등 상황에서 감정을 억누르지 않으면서도 
 
 ### 감정 분석
 ![감정 분석](usecases/3.jpg)
+![감정 분석](usecases/4.jpg)
 
-### 메시지 추천
-![메시지 추천](usecases/4.jpg)
-
-### 개인화된 분석
+### 마음의 소리 및 메시지 추천
 ![개인화된 분석](usecases/5.jpg)
+![메시지 추천](usecases/6.jpg)
 
 ### 앱 아이콘
 ![앱 아이콘](assets/app_icon.png)
@@ -313,36 +312,9 @@ Malmot은 이러한 문제를 해결하기 위해 탄생했습니다.
 
 ---
 
-## 기여하기
-
-Malmot 프로젝트에 기여하고 싶으시다면 다음을 참고해주세요:
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### 기여 가이드라인
-
-- 코드 스타일을 지켜주세요 (Flutter Lints 사용)
-- 의미 있는 커밋 메시지를 작성해주세요
-- 테스트를 추가해주세요
-- 문서를 업데이트해주세요
-
----
-
 ## 라이선스
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 `LICENSE` 파일을 참고하세요.
-
----
-
-## 연락처
-
-- **이메일**: support@malmot.app
-- **GitHub**: [@bluesignum](https://github.com/bluesignum)
-- **프로젝트 링크**: [https://github.com/yourusername/malmot](https://github.com/yourusername/malmot)
 
 ---
 
@@ -356,5 +328,3 @@ Malmot 프로젝트에 기여하고 싶으시다면 다음을 참고해주세요
 - [Material Design](https://material.io/)
 
 ---
-
-**Made with 💖 by BlueSignum Team**
